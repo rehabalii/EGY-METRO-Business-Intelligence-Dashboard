@@ -620,8 +620,6 @@ EgyMetro_BI/
 │
 ├── 📄 README.md
 │
-├── 📁 report/
-│   └── EgyMetro_BI_Report.pbix          # Main Power BI report file
 │
 ├── 📁 documentation/
 │   └── EgyMetro_BI_Documentation.docx   # Full technical documentation
