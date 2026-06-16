@@ -90,12 +90,10 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Contents** | Project title & Summary · Navigation button grid |
 | **Purpose** | Orients the user and provides one-click access to any main section |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Cover Page](assets/screenshots/Cover_Page.png)
 
-</details>
 
 ---
 
@@ -112,12 +110,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Line** | Passengers By Date |
 | **Chart 4 — Gauge** | Cost-to-Revenue Ratio |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 1 - Executive Overview](assets/screenshots/D1_Executive_Overview.png)
 
-</details>
 
 ---
 
@@ -135,12 +130,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Line** | Subscription Revenue Over Time |
 | **Links to** | D8 Ticket Sales Detail (Drillthrough) · D9 Subscription Revenue (Button) · D10 Shop Rent Revenue (Button) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 2 - Revenue Overview](assets/screenshots/D2_Revenue_Overview.png)
 
-</details>
 
 ---
 
@@ -158,12 +150,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Matrix Heat Map** | Total Entries by Day & Hour |
 | **Links to** | D11 Peak Hours (Button) · D12 Station Congestion (Drillthrough) · D13 Penalty Analysis (Drillthrough) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 3 - Passenger Flow](assets/screenshots/D3_Passenger_Flow_Overview.png)
 
-</details>
 
 ---
 
@@ -181,12 +170,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Gauge** | Avg Energy per Trip (Target: 450 kWh) |
 | **Links to** | D14 Line Performance Detail (Drillthrough) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 4 - Trip & Train](assets/screenshots/D4_Trip_Train_Overview.png)
 
-</details>
 
 ---
 
@@ -204,15 +190,14 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Column** | Employees Salary by Role |
 | **Links to** | D15 Salary & Workforce Detail (Drillthrough) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 5 - Employee Overview](assets/screenshots/D5_Employee_Overview.png)
 
-</details>
 
 ---
-
+<details>
+<summary>Show Other Dashboards Details</summary>
+    
 ### ★ Dashboard 6 — Cost Overview
 
 *Maps the complete cost structure of metro operations. Reveals which spending categories dominate, shows cost distribution across types, and tracks escalation trends — the primary tool for budget control.*
@@ -227,12 +212,11 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Line** | Operating Cost Over Time |
 | **Links to** | D16 Station Cost Detail (Drillthrough) · D17 Train Cost Detail (Button) · D18 Revenue vs Cost Balance (Button) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 6 - Cost Overview](assets/screenshots/D6_Cost_Overview.png)
 
-</details>
+
 
 ---
 
@@ -250,12 +234,10 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 4 — Clustered Column** | Ticket Type Preference by Gender |
 | **Links to** | D19 Nationality Profile Detail (Drillthrough) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 7 - Customer Behavior](assets/screenshots/D7_Customer_Behavior.png)
 
-</details>
+
 
 ---
 
@@ -273,12 +255,10 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Waterfall** | Revenue by Ticket Type |
 | **Chart 4 — Donut** | Payment Method Revenue |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 8 - Ticket Sales Detail](assets/screenshots/D8_Ticket_Sales_Detail.png)
 
-</details>
+
 
 ---
 
@@ -296,12 +276,10 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Column** | Subscribers by Age Group |
 | **Chart 4 — Line** | Subscription Growth Trend |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 9 - Subscription Revenue](assets/screenshots/D9_Subscription_Revenue.png)
 
-</details>
+
 
 ---
 
@@ -318,12 +296,11 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Bar (Top 5)** | Highest-Paying Shops |
 | **Chart 3 — TreeMap** | Rent Revenue by Station |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 10 - Shop Rent Detail](assets/screenshots/D10_Shop_Rent_Detail.png)
 
-</details>
+
 
 ---
 
@@ -341,12 +318,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Area** | AM vs PM Peak Comparison |
 | **Chart 4 — Column** | AM / PM Entries by Day of Week |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 11 - Peak Hours Analysis](assets/screenshots/D11_Peak_Hours_Analysis.png)
 
-</details>
 
 ---
 
@@ -364,12 +338,11 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Column** | Daily Entry Volume |
 | **Chart 4 — Matrix Heat Map** | Hourly Congestion Pattern |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 12 - Station Congestion](assets/screenshots/D12_Station_Congestion_Detail.png)
 
-</details>
+
 
 ---
 
@@ -386,12 +359,11 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Column** | Total Penalty Incidents by Type |
 | **Chart 3 — Clustered Column** | Penalty Type: Peak vs Off-Peak |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 13 - Penalty Analysis](assets/screenshots/D13_Penalty_Analysis.png)
 
-</details>
+
 
 ---
 
@@ -408,12 +380,11 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Donut** | Total Trips by Train Type |
 | **Chart 3 — Line** | Entries Trend on This Line |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 14 - Line Performance](assets/screenshots/D14_Line_Performance_Detail.png)
 
-</details>
+
 
 ---
 
@@ -431,12 +402,10 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Donut** | Gender Distribution |
 | **Chart 4 — Column** | Active vs Inactive by Role |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
+
 
 ![Dashboard 15 - Salary & Workforce](assets/screenshots/D15_Salary_Workforce_Detail.png)
 
-</details>
 
 ---
 
@@ -453,12 +422,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Column** | Employees by Role at This Station |
 | **Chart 3 — Line** | Station Cost Over Time |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 16 - Station Cost](assets/screenshots/D16_Station_Cost_Detail.png)
 
-</details>
 
 ---
 
@@ -475,12 +441,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Line** | Maintenance Cost Escalation |
 | **Chart 3 — Column** | This Train vs Same Type Fleet |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 17 - Train Cost Detail](assets/screenshots/D17_Train_Cost_Detail.png)
 
-</details>
 
 ---
 
@@ -498,12 +461,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Line** | Revenue vs Cost Gap Over Time |
 | **Chart 4 — Gauge** | Overall Margin Health (Target: 25%) |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 18 - Revenue vs Cost](assets/screenshots/D18_Revenue_vs_Cost_Balance.png)
 
-</details>
 
 ---
 
@@ -521,12 +481,9 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 3 — Line** | Spending Over Time |
 | **Chart 4 — Map** | Most Used Stations |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 19 - Nationality Profile](assets/screenshots/D19_Nationality_Profile_Detail.png)
 
-</details>
 
 ---
 
@@ -543,8 +500,6 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Chart 2 — Bar** | Day of Week Usage |
 | **Chart 3 — Column** | Peak vs Off-Peak by Day |
 
-<details>
-<summary>📸 View Page Screenshot</summary>
 
 ![Dashboard 20 - Gate Activity](assets/screenshots/D20_Gate_Activity_Detail.png)
 
