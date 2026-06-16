@@ -151,7 +151,7 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Links to** | D11 Peak Hours (Button) · D12 Station Congestion (Drillthrough) · D13 Penalty Analysis (Drillthrough) |
 
 
-![Dashboard 3 - Passenger Flow](assets/screenshots/D3_Passenger_Flow_Overview.png)
+![Dashboard 3 - Passenger Flow](assets/screenshots/D3_Passenger_Flow.png)
 
 
 ---
@@ -171,7 +171,7 @@ The first screen users see. Displays the project title, summary, and navigation 
 | **Links to** | D14 Line Performance Detail (Drillthrough) |
 
 
-![Dashboard 4 - Trip & Train](assets/screenshots/D4_Trip_Train_Overview.png)
+![Dashboard 4 - Trip & Train](assets/screenshots/D4_Trip_Train.png)
 
 
 ---
