@@ -59,7 +59,7 @@ The **Egy Metro Management & Analytics Power BI Report** is a comprehensive Busi
 
 > **Interactive Dashboard Preview**
 
-<img src="assets/demo/dashboard_demo.gif" alt="Report Demo" width="90%"/>
+<img src="dashboard_demo.gif" alt="Report Demo" width="90%"/>
 
 *↑ Animated walkthrough of the EgyMetro Power BI dashboards*
 
